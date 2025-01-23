@@ -2,6 +2,8 @@
 
 A modern web application that generates personalized workout plans using AI. The application supports both powerlifting and bodybuilding focuses, with customized programming based on user experience, goals, and available equipment.
 
+Created by Champ Mukiza.
+
 ## Features
 
 - **AI-Powered Workout Generation**: Creates personalized workout plans using GPT4All
@@ -104,4 +106,4 @@ VITE_API_URL=http://localhost:3001/api
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details. 
+This project is licensed under the MIT License with an additional attribution requirement - see the LICENSE file for details. Any use of this software must include clear and visible attribution to the original author, Champ Mukiza. 
