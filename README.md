@@ -1,4 +1,4 @@
-# GenFitness - AI-Powered Workout Generator
+# GenFitness - AI-Powered Workout Generator (WORK IN PROGRESS!)
 
 A modern web application that generates personalized workout plans using AI. The application supports both powerlifting and bodybuilding focuses, with customized programming based on user experience, goals, and available equipment.
 
