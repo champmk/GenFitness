@@ -1,0 +1,31 @@
+@font-face {
+  font-family: 'GeistSans';
+  src: url('../node_modules/geist/font/sans/GeistSans-Regular.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'GeistSans';
+  src: url('../node_modules/geist/font/sans/GeistSans-Medium.woff2') format('woff2');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'GeistSans';
+  src: url('../node_modules/geist/font/sans/GeistSans-SemiBold.woff2') format('woff2');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'GeistSans';
+  src: url('../node_modules/geist/font/sans/GeistSans-Bold.woff2') format('woff2');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+} 
