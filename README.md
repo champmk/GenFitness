@@ -62,12 +62,11 @@ Created by Champ Mukiza.
 
 4. Start the development servers:
    ```bash
-   # Start both frontend and backend
+   # Start the back end using:
    npm start
 
-   # Or start them separately:
-   npm run start:frontend
-   npm run start:backend
+   # Start the front end using:
+   npm run dev
    ```
 
 5. Ensure GPT4All is running locally on port 4891
